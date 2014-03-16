@@ -1,0 +1,1 @@
+This app is a skeleton app of a web application using java and extjs
