@@ -3,13 +3,13 @@ This app is a skeleton app of a web application using spring, hibernate, and ext
 the following are the dependencies and tools used for this app:
 
 base libraries
-		*[[http://docs.oracle.com/javase/7/docs/api/| java API]]
-		*[[http://docs.oracle.com/javaee/7/api/| j2ee servlet API]]
-		*[[https://commons.apache.org/proper/commons-lang/javadocs/api-2.6/| Apache commons lang]]
-		*[[http://commons.apache.org/proper/commons-logging/apidocs/| Apache commons logging]]
-		*[[http://json-lib.sourceforge.net/apidocs/jdk15/| JSON lib]]
-		*[[http://projects.spring.io/spring-framework/| Spring Framework]]
-		*[[http://projects.spring.io/spring-security/| Spring Security]]
+		*[[http://docs.oracle.com/javase/7/docs/api/| java API]
+		*[[http://docs.oracle.com/javaee/7/api/| j2ee servlet API]
+		*[[https://commons.apache.org/proper/commons-lang/javadocs/api-2.6/| Apache commons lang]
+		*[[http://commons.apache.org/proper/commons-logging/apidocs/| Apache commons logging]
+		*[[http://json-lib.sourceforge.net/apidocs/jdk15/| JSON lib]
+		*[[http://projects.spring.io/spring-framework/| Spring Framework]
+		*[[http://projects.spring.io/spring-security/| Spring Security]
 		*[[http://hibernate.org/| Hibernate]]
 
 		*[[http://tomcat.apache.org/| Apache Tomcat (7)]
