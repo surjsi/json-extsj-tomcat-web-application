@@ -10,7 +10,6 @@ base libraries
 		*[[http://json-lib.sourceforge.net/apidocs/jdk15/| JSON lib]
 		*[[http://projects.spring.io/spring-framework/| Spring Framework]
 		*[[http://projects.spring.io/spring-security/| Spring Security]
-		*[[http://hibernate.org/| Hibernate]]
-
+		*[[http://hibernate.org/| Hibernate]
 		*[[http://tomcat.apache.org/| Apache Tomcat (7)]
 		*[[http://www.sencha.com/products/extjs/| Sencha Extjs (4.2.x)]
