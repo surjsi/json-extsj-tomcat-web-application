@@ -1,1 +1,9 @@
-This app is a skeleton app of a web application using java and extjs
+This app is a skeleton app of a web application using spring, hibernate, and extjs.
+
+the following are the dependencies and tools used for this app:
+
+base libraries
+
+		*[[http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html|JDK 7]]
+		*[[http://tomcat.apache.org/|Apache Tomcat (7)]]
+		*[[http://www.sencha.com/products/extjs/|Sencha Extjs (4.2.x)]]
